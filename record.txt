@@ -1,0 +1,10 @@
+_____________XYZ Airlines_____________
+______________Ticket___________________
+_______________________________________
+Customer ID: 0
+Customer Name: 
+Customer Gender: 
+	Description
+
+Destination:		UK
+Flight cost:		0
